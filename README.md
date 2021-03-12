@@ -1,6 +1,6 @@
 <a href='http://g9.yt/psdcrd' target='_blank'>![alt Discord](https://img.shields.io/discord/478976790728278053?color=7289da&logo=discord&logoColor=white)</a> <a href='https://g9.yt/pspay' target='_blank'>![alt support](https://img.shields.io/badge/donate-blue)</a>
 
-# Latest Instagram Post
+# About Website to Discord
 Send plain text messages to discord via a website
 
 Send message to discord code Created by @danielytuk adapted by Mad_Tom05 (Pythona Studios CEO) for send from websites
